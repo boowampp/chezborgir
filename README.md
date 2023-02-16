@@ -49,7 +49,7 @@ sudo ./a.out
 If everything went fine then you will see something simmilar to the text below
 ```
 ======================== SETTINGS LOADED ========================
-FEATURE_AIMBOT_ON               false
+FEATURE_AIMBOT_ON               true
 FEATURE_NORECOIL_ON             true
 FEATURE_SENSE_ON                true
 AIMBOT_TRIGGER                  0
